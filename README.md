@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Prince (Ultikar Soni)</h1>
+<h1 align="center">Hey 👋, I'm Om Prakash Soni </h1>
 <h3 align="center">Backend Developer | MERN Stack Enthusiast | Future Cloud & DevOps Explorer</h3>
 
 ---
