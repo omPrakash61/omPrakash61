@@ -3,17 +3,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🔭 I’m currently building scalable full-stack applications using **Node.js, Express.js, MongoDB, and MySQL**
-- 🌱 Exploring real-time features with **WebSockets**, and diving into **DevOps & Cloud deployment**
-- 👨‍🎓 I’m a 3rd-year Computer Science undergrad passionate about crafting efficient backend systems
-- 🛠️ Built multiple projects including **an Instamart-like e-commerce backend**, fully integrated with cart and inventory logic
-- ✨ I love learning by doing – and enjoy solving problems through code!
+-  I’m final-year Computer Science Student profficient in crafting efficient backend systems
+-  Exploring real-time features with **WebSockets**, and diving into **DevOps & Cloud deployment**
+-  Currently building scalable full-stack applications using **Node.js, Express.js, MongoDB, and MySQL**
+-  Built multiple projects including **an Instamart-like e-commerce backend**, fully integrated with cart and inventory logic
+-  I love learning by doing – and enjoy solving problems through code!
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 **Languages**  
 `JavaScript` `TypeScript (learning)` `Java` `SQL`
@@ -32,10 +32,10 @@
 
 ---
 
-### 📫 Let’s Connect
+###  Let’s Connect
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/om-prakash-soni-118673298/)
-- 📧 Email: omsoni.dev127@gmail.com
-- 🌐 Portfolio: *(coming soon...)*
+-  LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/om-prakash-soni-118673298/)
+-  Email: omsoni.dev127@gmail.com
+-  Portfolio: *(coming soon...)*
 
 ---
